@@ -1,0 +1,46 @@
+[
+    {
+      "title": "Spider-Man: Homecoming",
+      "image": "./assets/images/movies/spider-men.jpg",
+      "rating": 7.4,
+      "genre": "Action/Adventure",
+      "year": 2017,
+      "url": "./page/movie1/index.html"
+    },
+    {
+      "title": "The Matrix Resurrections",
+      "image": "./assets/images/movies/matrix.jpg",
+      "rating": null,
+      "genre": "Sci-fi/Action",
+      "year": 2021
+    },
+    {
+      "title": "Eternals",
+      "image": "./assets/images/movies/eternals.jpg",
+      "rating": 6.8,
+      "genre": "Adventure/Action",
+      "year": 2021
+    },
+    {
+      "title": "Dune",
+      "image": "./assets/images/movies/dune.jpg",
+      "rating": 8.2,
+      "genre": "Sci-fi/Adventure",
+      "year": 2021
+    },
+    {
+      "title": "Venom",
+      "image": "./assets/images/movies/venom.jpg",
+      "rating": 6.7,
+      "genre": "Action/Adventure",
+      "year": 2018
+    },
+    {
+      "title": "Lord Of The Rings: Return Of The King",
+      "image": "./assets/images/movies/LOTR.jpg",
+      "rating": 8.9,
+      "genre": "Fantasy/Adventure",
+      "year": 2003
+    }
+  ]
+  
